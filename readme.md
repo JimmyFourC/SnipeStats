@@ -1,0 +1,2 @@
+-store snipe stats from telegram 
+-tg to mongodb
